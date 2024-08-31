@@ -9,7 +9,7 @@ cd C:\Users\Madhav\Rishabh Mishra\Python Mini Projects\Simple_Calculator
 ```
 3. Run your Python script:
 ```bash
-python Project-1 calculator.py
+python Calculator.py
 ```
 
 ## Available Operations 
